@@ -19,15 +19,18 @@ This healthcare analytics project analyzes 101,766 hospital encounters involving
 - CSV datasets
 
 ## Dataset
-Diabetes 130-US Hospitals for Years 1999–2008, provided by the UCI Machine Learning Repository.
 
-## Key Performance Indicators
-| Metric | Value |
-|---|---:|
-| Total Hospital Encounters | 101,766 |
-| 30-Day Readmissions | 11,357 |
-| 30-Day Readmission Rate | 11.16% |
-| Average Length of Stay | 4.40 days |
+- **Source:** UCI Machine Learning Repository
+- **Dataset:** Diabetes 130-US Hospitals for Years 1999–2008
+- **Total Records:** 101,766 hospital encounters
+- **Time Period:** 1999–2008
+- **License:** Creative Commons Attribution 4.0 (CC BY 4.0)
+- **Authors:** Beata Strack et al.
+
+[View Original Dataset](https://doi.org/10.24432/C5230J)
+
+This publicly available dataset was used for educational
+and portfolio purposes.
 
 ## Key Findings
 - Encounters with five or more previous inpatient visits had a 36.41% readmission rate, compared with 8.44% for those with no previous inpatient visits.
