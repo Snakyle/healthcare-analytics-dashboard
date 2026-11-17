@@ -37,6 +37,7 @@ Diabetes 130-US Hospitals for Years 1999–2008, provided by the UCI Machine Lea
 
 ## Dashboard
 The Power BI dashboard includes four KPI cards and visualizations analyzing previous inpatient visits, emergency visits, hospital length of stay, and selected admission types.
+![Hospital Readmissions Dashboard](dashboard/dashboard_preview.png)
 
 ## Skills Demonstrated
 - SQL querying and data aggregation
